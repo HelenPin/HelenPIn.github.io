@@ -1,0 +1,445 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background: url(images/Chi_loft_buro_3.jpg) no-repeat center center fixed;
+    height: 900px;
+    width: 100%;
+background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    color: #b2b1ae;
+    
+}
+
+a:hover {
+    border-bottom: 3px solid #b2b1ae;
+
+
+}
+
+a:visited {
+    text-decoration: none;
+    color: #b2b1ae;
+}
+
+#first {
+    background-color: rgba(86, 83, 86, 0.53);
+    height: 70px;
+
+
+}
+
+#first > table {
+    border-right: -40px;
+    width: 100%;
+    border-spacing: 50px;
+    vertical-align: middle;
+    border-spacing: 10px;
+
+
+}
+
+#first td {
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    color: #b2b1ae;
+    font-size: 14pt;
+    text-transform: uppercase;
+    margin-right: 36px;
+}
+
+
+
+#first img {
+    margin-right: 30px;
+    float: right;
+
+}
+
+#t2 {
+    font-family: "Lucida Bright", serif;
+    font-size: 92pt;
+    color: #ffffff;
+    margin-top: 120px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    text-align: center;
+}
+
+#t3 > img {
+    padding-left: 630px;
+    margin-bottom: 25px;
+    margin-top: -35px;
+
+
+}
+
+#t4 {
+    font-family: "Lucida Bright";
+    font-size: 24pt;
+    color: #ffffff;
+    padding-left: 515px;
+    margin-bottom: 0;
+}
+
+.t5 {
+    width: 200px;
+    height: 50px;
+    border-style: dashed;
+    border-width: thin;
+    border-color: #9e9c93;
+    margin-left: 700px;
+    font-family: 'Alegreya', serif;
+    font-size: 24pt;
+    color: #ffffff;
+    text-align: center;
+    background-color: rgba(102, 98, 90, 0.5);
+    margin-top: 45px;
+}
+
+.t5:hover {
+
+
+
+
+
+    transform: scale(1.2);
+}
+
+.t5 a:hover {
+    color: beige;
+    border-bottom: none;
+}
+
+#t6 {
+    padding-left: 745px;
+    margin-top: -50px;
+    margin-bottom: 100px;
+}
+
+.body {
+    height: 760px;
+}
+
+.body img {
+    display: inline;
+    margin-top: -110px;
+   margin-right:100px;
+    float:right;
+
+}
+
+#b1 {
+    font-family: "Lucida Bright";
+    font-size: 48pt;
+    color: #56534c;
+    margin-left: 165px;
+
+}
+
+
+
+
+#b2 {
+    font-family: 'Alegreya', serif;
+    font-size: 20pt;
+    color: #a47d5e;
+    float:left;
+    margin-top: -10px;
+    padding-left:180px;
+    text-align: center;
+}
+
+#b3 {
+    font-family: "Lucida Bright";
+    font-size: 14pt;
+    color: #56534c;
+    float: left;
+    margin-top:150px;
+    padding-left: 100px;
+    text-align: center;
+
+}
+
+#b4 {
+    font-family: '"Lucida Bright"';
+    font-size: 24pt;
+    color: #373531;
+    float: left;
+    margin-top: 100px;
+    padding-left: 300px;
+}
+
+#b5 {
+    float: left;
+    margin-left: 315px;
+    margin-top:-70px;
+}
+
+#b6 {
+    float: left;
+    margin-left: 345px
+}
+
+#cook {
+    height: 2px;
+    width: 110px;
+    background-color: #d7d5ca;
+   margin-top:500px;
+    margin-left: 180px;
+}
+
+#cook1 {
+    height: 2px;
+    width: 110px;
+    background-color: #d7d5ca;
+    margin-left: 180px;
+}
+
+#cook0 {
+    margin-left: 185px;
+    font-family: '"Lucida Bright"';
+    font-size: 24pt;
+    color: #373531;
+}
+
+#cook2 {
+    height: 2px;
+    width: 110px;
+    background-color: #d7d5ca;
+    margin-left: 480px;
+}
+
+#cook4 {
+    margin-left: 485px;
+    font-family: '"Lucida Bright"';
+    font-size: 24pt;
+    color: #373531;
+    margin-top: -45px;
+}
+
+#cook3 {
+    height: 2px;
+    width: 110px;
+    background-color: #d7d5ca;
+    margin-left: 480px;
+    margin-top: -40px;
+}
+
+
+.menu {
+    height: 700px;
+    background: linear-gradient(to bottom, white, #f2d5f2);
+    margin-bottom: 0px;
+
+}
+
+#menu {
+    text-align: center;
+    font-family: "Lucida Bright";
+    font-size: 50pt;
+    color: #373531;
+    padding-top: 40px;
+}
+
+.rightcolom {
+    margin-right: 500px;
+    padding-left: 150px;
+
+}
+
+.rightcolom p {
+    padding-left: 150px;
+    font-family: "Lucida Bright";
+    font-size: 14pt;
+    color: dimgrey;
+    width: 50%;
+    margin-top: 50px;
+
+}
+
+.rightcolom p em {
+    font-size: 10pt;
+}
+
+.rightcolom .price {
+    margin-top: -320px;
+    list-style-type: none;
+    float: right;
+    width: 50px;
+    font-family: "Lucida Bright";
+    font-size: 14pt;
+    color: dimgrey;
+    padding-right: 350px;
+}
+
+.price li {
+    margin-bottom: 70px;
+}
+
+.leftcolom {
+    margin-top: -378px;
+    margin-left: 900px;
+}
+
+.leftcolom p {
+
+    padding-left: 50px;
+    font-family: "Lucida Bright";
+    font-size: 14pt;
+    color: dimgrey;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.leftcolom p em {
+    font-size: 10pt;
+}
+
+.leftcolom .price {
+    margin-top: -370px;
+    list-style-type: none;
+    float: right;
+    width: 50px;
+    float: left;
+    font-family: "Lucida Bright";
+    font-size: 14pt;
+    color: dimgrey;
+    padding-right: 200px;
+    float: right;
+}
+
+.featured {
+    height: 500px;
+    background: linear-gradient(to top, white, #f2d5f2);
+
+
+}
+
+h4 {
+    font-family: "Lucida Bright";
+    font-size: 14pt;
+    color: dimgrey;
+    text-align: left;
+    text-transform: uppercase;
+    padding-top: 50px;
+    padding-left: 250px;
+    margin-bottom: 100px;
+
+
+}
+
+
+
+h3+.imge {
+    margin-left: 250px;
+}
+
+.imge {
+    margin-right: 60px;
+    position: relative;
+    display: inline;
+
+
+}
+
+.imge img {
+    opacity: 0.8;
+}
+
+.imge img:hover {
+    border-top-right-radius: 50px;
+    opacity: 1;
+}
+
+.imge::after {
+    display: inline;
+    width: 210px;
+    content: attr(data-title);
+    color: dimgrey;
+    font-family: Aleo;
+    font-size: 25px;
+    margin-left: -233px;
+    margin-top: 220px;
+    position: absolute;
+    visibility: hidden;
+}
+
+
+.imge:hover::after {
+    visibility: visible;
+}
+.imge::before {
+    display: inline;
+    width: 210px;
+    content: attr(data-discription);
+    color: rgba(255,255,255,1);
+    font-family: Aleo;
+    font-size: 50px;
+    position: absolute;
+    visibility: visible;
+}
+.imge:hover::before {
+    visibility: visible;
+}
+#gallery {
+    
+    width: auto;
+    margin-bottom: 50px;
+}
+
+.line {
+
+    width: 200px;
+    height: 3px;
+    background-color: rgba(102, 98, 90, 0.8);
+    margin-left: 450px;
+    margin-bottom: 100px;
+    margin-top: -115px;
+
+}
+#galtabl{
+    margin-top:100px;
+    margin-left:250px;
+    margin-bottom: 50px;
+}
+#galtabl img{
+    margin: -3px;
+ 
+}
+#galtabl img:hover{
+    transform: scale(1.2);
+}
+#galtabl tr>td {
+    width:auto;
+    height:auto;
+    
+}
+.footer {
+    height: 220px;
+    background-color: #b18cb1;
+}
+.adress p{
+    font-family: Aleo;
+color:  #ffffff;
+font-size: 16px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+text-transform: capitalize;
+}
+.adress img{
+    margin:10px 25px 0 0;
+  
+}
+.adress {
+    
+    float:left;
+    display:inline;
+    margin: 20px 0 0 180px;
+}
